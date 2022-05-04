@@ -78,17 +78,6 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
         
-\x1b[1;90m_______________________________________
-|Author   | Ranna Saaab (Bad-Boy)      |
-|Fb Id    | Ranna Saaab Bad Boy        |
-|GitHub   | p4pakistani              |
-|Vol      |          6.2.0             |
-|______________________________________|
-"""
-
-
-
-
 def hasil(OK,cp):
 	if not len(OK) != 0:
 	    pass
