@@ -77,9 +77,7 @@ def jalan(z):
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.01)
-
-logo =                                          """   
-RANA_SAB
+        
 \x1b[1;90m_______________________________________
 |Author   | Ranna Saaab (Bad-Boy)      |
 |Fb Id    | Ranna Saaab Bad Boy        |
