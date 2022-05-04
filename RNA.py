@@ -95,7 +95,6 @@ def Bad_Boy():
         
   
     os.system('clear')
-    print(logo)
     ipm = requests.get(url_ip).json()
     todz = ''
     IP = ipm['origin']
@@ -320,5 +319,6 @@ class load:
             sys.stdout.flush()
             time.sleep(0.1)
         print('\n')
-
+        
+        
 Bad_Boy()
